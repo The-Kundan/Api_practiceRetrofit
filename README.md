@@ -50,5 +50,6 @@ Using [JSONPlaceholder](https://jsonplaceholder.typicode.com/) as the test API.
 - Console logs for created, updated, and deleted posts.
 
 ## Reference
-- Retrofit Documentation
-- JSONPlaceholder API   
+- [Retrofit Documentation](https://square.github.io/retrofit/)  
+- [JSONPlaceholder API](https://jsonplaceholder.typicode.com/)  
+
