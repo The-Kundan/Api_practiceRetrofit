@@ -31,7 +31,7 @@ Using [JSONPlaceholder](https://jsonplaceholder.typicode.com/) as the test API.
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/your-username/your-repo-name.git](https://github.com/The-Kundan/Api_practiceRetrofit.git
 2. Open in Android Studio.
 3. Sync Gradle.
 4. Run the app on an emulator or device with internet access.
