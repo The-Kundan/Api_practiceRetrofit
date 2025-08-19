@@ -2,6 +2,15 @@
 
 This project demonstrates how to make API calls using **Retrofit** in Android. It includes examples of `GET`, `POST`, `PUT`, `PATCH`, and `DELETE` requests with both `@Body`, `@Field`, `@Path`, and `@Query` usage.
 
+## Dependencies  
+
+To use Retrofit in your project, add the following in your **build.gradle(:app)** file:
+
+```gradle
+implementation "com.squareup.retrofit2:retrofit:2.9.0"
+implementation "com.squareup.retrofit2:converter-gson:2.9.0"
+```
+
 ## Features
 - Fetch posts and comments from an API
 - Send data using `POST` with both `@Body` and `@FormUrlEncoded`
